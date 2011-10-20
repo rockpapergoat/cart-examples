@@ -1,4 +1,4 @@
-.tar*
-.pkg*
-.dmg
-.zip
+*.tar*
+*.pkg*
+*.dmg
+*.zip
